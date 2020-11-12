@@ -5,8 +5,15 @@ Homework tasks for week 1 coding bootcamp including the modification of the Hori
 Horiseon Website includes initiatives for online marketing. Such as the following search engines optimisation, online reputation management and social media marketing. 
 
 Screenshots of Website:
+
 Added Nav Bar with hover option:
 ![Alt text](/assets/screenshots/navbar.JPG?raw=true "Navbar")
+
+Main Content:
+![Alt text](/assets/screenshots/maincontent.JPG?raw=true "Maincontent")
+
+Footer:
+![Alt text](/assets/screenshots/maincontent-footer.JPG?raw=true "Footer")
 
 URL to deployed Website: 
 
