@@ -4,7 +4,7 @@ Homework tasks for week 1 coding bootcamp including the modification of the Hori
 
 Horiseon Website includes initiatives for online marketing. Such as the following search engines optimisation, online reputation management and social media marketing. 
 
-
+Screenshots of Website:
 
 URL to deployed Website: 
 
