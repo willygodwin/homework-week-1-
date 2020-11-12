@@ -6,7 +6,7 @@ Horiseon Website includes initiatives for online marketing. Such as the followin
 
 Screenshots of Website:
 Added Nav Bar with hover option:
-
+![Alt text](/assets/screenshots/navbar.jpg?raw=true "Navbar")
 
 URL to deployed Website: 
 
